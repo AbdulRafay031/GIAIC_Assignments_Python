@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Think Big",
+        "author": "james",
+        "year": 2010,
+        "genre": "@@",
+        "read": true
+    }
+]
